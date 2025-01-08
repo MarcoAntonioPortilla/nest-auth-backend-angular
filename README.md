@@ -1,1 +1,6 @@
-# nest-auth-backend-angular
+# Backend en Nest js
+
+```
+docker compose up -d
+```
+
